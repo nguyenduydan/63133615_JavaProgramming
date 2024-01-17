@@ -13,7 +13,7 @@ public class Lab2Bai3 {
 		}else {
 			tien = 50*1000 + (soDien - 50)*1200;
 		}
-		
+		System.out.printf("Tiền điện là: %d",tien);
 	}
 
 }
