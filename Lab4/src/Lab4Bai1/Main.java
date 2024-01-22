@@ -4,10 +4,12 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		SanPham sp = new SanPham();
-		SanPham sp1 = new SanPham("Pepsi",25000,3000);
-		sp.xuat();
+		SanPham sp1 = new SanPham();
+		SanPham sp2 = new SanPham();
+		sp1.nhap();
+		sp2.nhap();
 		sp1.xuat();
+		sp2.xuat();
 	}
 
 }
