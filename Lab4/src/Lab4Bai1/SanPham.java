@@ -17,6 +17,10 @@ public class SanPham {
 		this.giamGia = giamGia;
 	}
 	
+	public SanPham(String tenSp, double donGia) {
+		this(tenSp,donGia,0);
+	}
+	
 	public void nhap() {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Nhập tên sản phẩm: ");
@@ -33,7 +37,7 @@ public class SanPham {
 		System.out.println("Thuế nhập khẩu: "+getThueNhapKhau());
 	}
 	
-	public double getThueNhapKhau() {
-		return (10.0/100.0) * donGia;
+	private double getThueNhapKhau() {
+		return 0.1 * donGia;
 	}
 }

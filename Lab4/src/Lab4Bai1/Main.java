@@ -10,6 +10,10 @@ public class Main {
 		sp2.nhap();
 		sp1.xuat();
 		sp2.xuat();
+		String tenSp = "Coca";
+		double donGia = 10000;
+		SanPham sp3 = new SanPham(tenSp,donGia);
+		sp3.xuat();
 	}
 
 }
