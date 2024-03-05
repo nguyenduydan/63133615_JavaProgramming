@@ -2,24 +2,6 @@
 
 [![Contributors][contributors-shield]][contributors-url] ![languagecount][language-count-shield] ![license][license-shield] [![GitHub followers][followers-shield]][contributors-url]
 
-<style>
-    img{
-        margin: 10px 0px;
-    }
-    summary{
-        font-size:20px;
-        font-weight:bold;
-        color:lightgreen;
-    }
-    a{
-        text-decoration: none;
-    }
-    a:hover{
-        color: yellow;
-        font-size:16px;
-    }
-</style>
-
 <br/>
 <!-- Giới thiệu bản thân -->
 <div align="center">
@@ -33,7 +15,7 @@
 
 <!-- Mục lục -->
 <details>
-  <summary>Mục lục</summary>
+  <summary style="font-weight:bold">Mục lục</summary>
   <ol style="font-size:15px;" >
     <li>
       <a href="#giới-thiệu-về-java">Giới thiệu về Java</a>
