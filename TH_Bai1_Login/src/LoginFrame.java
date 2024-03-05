@@ -81,6 +81,8 @@ public class LoginFrame extends JFrame {
 			HomeFrame home = new HomeFrame();
 			home.setVisible(true);
 			home.setLocation(538,272);
+			JOptionPane hopthoai = new JOptionPane();
+			hopthoai.showMessageDialog(this, "Đăng nhập thành công");
 			//ẩn form đăng nhập;
 			this.setVisible(false);
 		}else {

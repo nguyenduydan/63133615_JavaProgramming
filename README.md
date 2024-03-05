@@ -2,11 +2,29 @@
 
 [![Contributors][contributors-shield]][contributors-url] ![languagecount][language-count-shield] ![license][license-shield] [![GitHub followers][followers-shield]][contributors-url]
 
+<style>
+    img{
+        margin: 10px 0px;
+    }
+    summary{
+        font-size:20px;
+        font-weight:bold;
+        color:lightgreen;
+    }
+    a{
+        text-decoration: none;
+    }
+    a:hover{
+        color: yellow;
+        font-size:16px;
+    }
+</style>
+
 <br/>
 <!-- Giới thiệu bản thân -->
 <div align="center">
     <a href="https://github.com/nguyenduydan/63133615_AndroidProgramming">
-        <img src="Img/logo1.png" alt="Logo" width="100" height="100">
+        <img src="Img/logo1.png" alt="Logo" width="auto" height="300">
     </a>
      <h3 align="center">NGUYỄN THIẾT DUY ĐAN</h3>
      <h3 align="center" style="margin:0">63133615</h3>
@@ -15,7 +33,7 @@
 
 <!-- Mục lục -->
 <details>
-  <summary style="font-size:20px; font-weight: bold;">Mục lục</summary>
+  <summary>Mục lục</summary>
   <ol style="font-size:15px;" >
     <li>
       <a href="#giới-thiệu-về-java">Giới thiệu về Java</a>
@@ -89,6 +107,27 @@
         <b>Phép tính chia</b></br>
         <img src="Img/calculator_4.png" alt="Img" width="auto" height="300" >
     </li>
+</ol>
+<p align="right">(<a href="#readme-top">Trở về trên đầu</a>)</p>
+
+### Login
+
+<p>Xây dựng Form đăng nhập hệ thống Quản lý bán hàng. Nếu tên đăng nhập =63CNTT và mật khẩu =123 thì hiện Form Màn Hình Chính, ngược lại hiện một thông báo lỗi đăng nhập và yêu cầu nhập lại thông tin.</p>
+
+<ol>
+    <li>
+        <b>Giao diện login</b></br>
+        <img src="Img/login_1.png" alt="Img" width="auto" height="300" >
+    </li>
+    <li>
+        <b>Đăng nhập thành công</b></br>
+        <img src="Img/login_2.png" alt="Img" width="auto" height="300" >
+    </li>
+    <li>
+        <b>Đăng nhập thất bại</b></br>
+        <img src="Img/login_3.png" alt="Img" width="auto" height="300" >
+    </li>
+
 </ol>
 <p align="right">(<a href="#readme-top">Trở về trên đầu</a>)</p>
 
