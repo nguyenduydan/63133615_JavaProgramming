@@ -15,7 +15,7 @@
 
 <!-- Mục lục -->
 <details>
-  <summary style="font-weight:bold">Mục lục</summary>
+  <summary style="font-weight:bold; font-size:20px">Mục lục</summary>
   <ol style="font-size:15px;" >
     <li>
       <a href="#giới-thiệu-về-java">Giới thiệu về Java</a>
