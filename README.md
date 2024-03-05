@@ -15,7 +15,7 @@
 
 <!-- Mục lục -->
 <details>
-  <summary style="font-weight:bold; font-size:20px;color:lightgreen">Mục lục</summary>
+  <summary>Mục lục</summary>
   <ol style="font-size:15px;" >
     <li>
       <a href="#giới-thiệu-về-java">Giới thiệu về Java</a>
@@ -29,7 +29,8 @@
         <a href="#các-bài-thực-hành-đặc-biệt">Các bài thực hành đặc biệt</a>
         <ul>
             <li><a href="#simple-calculator">TH_Bai0_SimpleCalculator</a></li>
-            <li></li>
+            <li><a href="#login">TH_Bai1_Login</a></li>
+            <li><a href="#giải-phương-trình-bậc-2">TH_Bai2_PT2</a></li>
         </ul>
     </li>
   </ol>
@@ -92,6 +93,8 @@
 </ol>
 <p align="right">(<a href="#readme-top">Trở về trên đầu</a>)</p>
 
+<br/>
+
 ### Login
 
 <p>Xây dựng Form đăng nhập hệ thống Quản lý bán hàng. Nếu tên đăng nhập =63CNTT và mật khẩu =123 thì hiện Form Màn Hình Chính, ngược lại hiện một thông báo lỗi đăng nhập và yêu cầu nhập lại thông tin.</p>
@@ -112,6 +115,36 @@
 
 </ol>
 <p align="right">(<a href="#readme-top">Trở về trên đầu</a>)</p>
+
+<br/>
+
+### Giải phương trình bậc 2
+
+<p>Xây dựng ứng dụng GUI - Giải phương trình Bậc 2.</p>
+
+<ol>
+    <li>
+        <b>Giao diện giải phương trình bậc 2</b></br>
+        <img src="Img/pt2_1.png" alt="Img" width="auto" height="300" >
+    </li>
+    <li>
+        <b>Phương trình có 1 nghiệm khi Delta = 0</b></br>
+        <img src="Img/pt2_1nghiem.png" alt="Img" width="auto" height="300" >
+    </li>
+    <li>
+        <b>Phương trình có 2 nghiệm khi Delta >= 0</b></br>
+        <img src="Img/pt2_2nghiem.png" alt="Img" width="auto" height="300" >
+    </li>
+    <li>
+        <b>Phương trình có không có nghiệm khi Delta <= 0</b></br>
+        <img src="Img/pt2_kcn.png" alt="Img" width="auto" height="300" >
+    </li>
+
+</ol>
+<p align="right">(<a href="#readme-top">Trở về trên đầu</a>)</p>
+
+
+
 
 ## Other
 
