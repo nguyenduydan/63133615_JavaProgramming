@@ -31,6 +31,7 @@
             <li><a href="#simple-calculator">TH_Bai0_SimpleCalculator</a></li>
             <li><a href="#login">TH_Bai1_Login</a></li>
             <li><a href="#giải-phương-trình-bậc-2">TH_Bai2_PT2</a></li>
+            <li><a href="#giải-phương-trình-bậc-2">THPlus_DialogBoxes</a></li>
         </ul>
     </li>
   </ol>
@@ -143,8 +144,32 @@
 </ol>
 <p align="right">(<a href="#readme-top">Trở về trên đầu</a>)</p>
 
+<br/>
 
+### DialogBoxes
 
+<p>Kiểm tra chẵn lẻ rồi hiển thị ra thông báo</p>
+
+<ol>
+    <li>
+        <b>Giao diện nhập</b></br>
+        <img src="Img/dialog_1.png" alt="Img" width="auto" height="300" >
+    </li>
+    <li>
+        <b>Hiển thị ra thông báo "output" số vừa nhập là chẵn</b></br>
+        <img src="Img/dialog_even.png" alt="Img" width="auto" height="300" >
+    </li>
+    <li>
+        <b>Hiển thị ra thông báo "output" số vừa nhập là lẻ</b></br>
+        <img src="Img/dialog_odd.png" alt="Img" width="auto" height="300" >
+    </li>
+    <li>
+        <b>Hiển thị ra câu hỏi có tiếp tục nhập hay không (Yes/No)</b></br>
+        <img src="Img/dialog_ques.png" alt="Img" width="auto" height="300" >
+    </li>
+
+</ol>
+<p align="right">(<a href="#readme-top">Trở về trên đầu</a>)</p>
 
 ## Other
 
