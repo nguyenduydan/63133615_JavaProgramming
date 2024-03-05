@@ -5,7 +5,7 @@
 <br/>
 <!-- Giới thiệu bản thân -->
 <div align="center">
-    <a href="https://github.com/nguyenduydan/63133615_AndroidProgramming">
+    <a href="https://github.com/nguyenduydan/63133615_JavaProgramming">
         <img src="Img/logo1.png" alt="Logo" width="auto" height="300">
     </a>
      <h3 align="center">NGUYỄN THIẾT DUY ĐAN</h3>
