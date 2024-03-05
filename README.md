@@ -31,7 +31,7 @@
             <li><a href="#simple-calculator">TH_Bai0_SimpleCalculator</a></li>
             <li><a href="#login">TH_Bai1_Login</a></li>
             <li><a href="#giải-phương-trình-bậc-2">TH_Bai2_PT2</a></li>
-            <li><a href="#giải-phương-trình-bậc-2">THPlus_DialogBoxes</a></li>
+            <li><a href="#dialogboxes">THPlus_DialogBoxes</a></li>
         </ul>
     </li>
   </ol>
