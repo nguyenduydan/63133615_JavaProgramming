@@ -10,7 +10,7 @@ public class Lab2Bai1 {
 		a = scanner.nextInt();
 		System.out.print("Nhập b: ");
 		b = scanner.nextInt();
-		
+
 		if(a==0) {
 			if(b==0) {
 				System.out.println("Phương trình vô số nghiệm");
@@ -24,3 +24,4 @@ public class Lab2Bai1 {
 	}
 
 }
+
